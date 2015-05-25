@@ -1,0 +1,1 @@
+water_1 = read.csv("C:/Users/user/Desktop/2B/water_quality_1.csv",header = T)
